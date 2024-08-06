@@ -1,0 +1,14 @@
+[package]
+name = "kobayashi-maru"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "kobayashi-maru"
+path = "main.rs"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+logger = { path="logger" }
+handlers = { path="handlers" }
+config = { path="config" }

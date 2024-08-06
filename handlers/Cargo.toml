@@ -1,0 +1,9 @@
+[package]
+name = "handlers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+models = { path = "../models" }
+config = { path = "../config" }
+database = { path = "../database" }
