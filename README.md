@@ -15,12 +15,6 @@ Known customer addresses are:
 * James T. Kirk: miTHhiX3iFhVnAEecLjybxvV5g8mKYTtnM
 * Spock: mvcyJMiAcSXKAEsQxbW9TYZ369rsMG6rVV
 
-## Requirements
-
-Build a dockerized application to process the two transaction sets.
-
-If you're not comfortable with Node.js, feel free to use the language of your choice. The language you choose is not a factor when reviewing your application.
-
 ## How to run
 
 `docker-compose up`
